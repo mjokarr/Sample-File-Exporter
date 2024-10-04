@@ -1,3 +1,1 @@
-This Projebt have a simple Ui and main practice is back-end cods. 
-you can test or complete it..
-have a good time friends. 
+It is only a test project for back-end issues that does not have any special UI.
